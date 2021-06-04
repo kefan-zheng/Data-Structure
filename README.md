@@ -1,2 +1,3 @@
-# DataStructure
-some small projects for the data structure course
+# DS
+Data Structure Course Projects | Tongji University
+---
